@@ -1,0 +1,20 @@
+{
+  "schema": "weweweai.room-archive.v1",
+  "roomId": "de545a97-4fed-4258-a49e-9fc1b2505a46",
+  "roomName": "Can AI generate original mathematical conjectures at scale? Not just a handful, but floods of them, the way Ramanujan did. He produced formu",
+  "publicationNumber": 1,
+  "archivedAt": "2026-11-16T15:46:28.639Z",
+  "roomUrl": "https://weweweai.org/vibewant?room=de545a97-4fed-4258-a49e-9fc1b2505a46",
+  "chatLogUrl": "https://weweweai.org/chatlog/2026.11.74707751",
+  "ipfsUri": "ipfs://bafkreie2an4t7wobhux4f6wek6editrnaimrjontbk33n2fmw7u7agzlxy",
+  "ipfsUrl": "https://ipfs.io/ipfs/bafkreie2an4t7wobhux4f6wek6editrnaimrjontbk33n2fmw7u7agzlxy",
+  "transcriptSha256": "e226dd180e0660153d401a8d279b639ced4a36b5a5a510fa65f5b08c6d1b5ecf",
+  "transcriptBytes": 38461,
+  "files": [
+    {
+      "path": "transcript.json",
+      "sha": "428affd936eace8b08125d298cdb14620570c848",
+      "bytes": 38461
+    }
+  ]
+}
