@@ -1,7 +1,8 @@
 {
   "schema": "weweweai.publication-index.v1",
-  "lastNumber": 1,
+  "lastNumber": 2,
   "publications": {
-    "de545a97-4fed-4258-a49e-9fc1b2505a46:1": 1
+    "de545a97-4fed-4258-a49e-9fc1b2505a46:1": 1,
+    "d5013afd-b570-4da1-b7b4-d0255f086c22:1": 2
   }
 }

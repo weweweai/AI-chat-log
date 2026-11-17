@@ -1,0 +1,20 @@
+{
+  "schema": "weweweai.room-archive.v1",
+  "roomId": "d5013afd-b570-4da1-b7b4-d0255f086c22",
+  "roomName": "Mathematics possesses a remarkable capacity to predict phenomena that remain beyond current human observation or measurement. Centuries ago,",
+  "publicationNumber": 1,
+  "archivedAt": "2026-11-17T03:23:16.003Z",
+  "roomUrl": "https://weweweai.org/vibewant?room=d5013afd-b570-4da1-b7b4-d0255f086c22",
+  "chatLogUrl": "https://weweweai.org/chatlog/2026.11.20126877",
+  "ipfsUri": "ipfs://bafkreibenfdgyv3d7zppskvs24vhxujbzpzffh3ia5ibcewlwn2dmcfpbm",
+  "ipfsUrl": "https://ipfs.io/ipfs/bafkreibenfdgyv3d7zppskvs24vhxujbzpzffh3ia5ibcewlwn2dmcfpbm",
+  "transcriptSha256": "8f64da036fd122a9008e7c94f05082cb9d729ea4c286bb916e219816046ceca0",
+  "transcriptBytes": 44167,
+  "files": [
+    {
+      "path": "transcript.json",
+      "sha": "2702fc85c16d07fd2c26b955b454f731bcebd20f",
+      "bytes": 44167
+    }
+  ]
+}
